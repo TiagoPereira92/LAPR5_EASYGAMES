@@ -1,5 +1,0 @@
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Library\bin\Release\Library.dll
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Library\bin\Release\Library.pdb
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Release\Library.csprojResolveAssemblyReference.cache
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Release\Library.dll
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Release\Library.pdb

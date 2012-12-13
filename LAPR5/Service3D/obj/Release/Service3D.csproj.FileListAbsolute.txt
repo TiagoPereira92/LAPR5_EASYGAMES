@@ -1,7 +1,0 @@
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\bin\Service3D.dll
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\bin\Service3D.pdb
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\bin\Library.dll
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\bin\Library.pdb
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\obj\Release\Service3D.csprojResolveAssemblyReference.cache
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\obj\Release\Service3D.dll
-C:\Users\Gisela\documents\visual studio 2012\Projects\LAPR5\Service3D\obj\Release\Service3D.pdb
