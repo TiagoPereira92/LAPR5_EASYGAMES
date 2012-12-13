@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="WebApp.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <!-- Referencias -->
+
+    <link href="App_Themes/Tema/style.css" rel="stylesheet" />
+
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="height: 697px">
+    <div style="z-index: 1; left: 191px; top: 412px; position: absolute; height: 59px; width: 1132px" id="divMenu">
+    </div>
+</body>
+</html>

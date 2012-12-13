@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="WebApp.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <link href="App_Themes/Tema/style.css" rel="stylesheet" />
+     <link id="Link1" runat="server" rel="shortcut icon" href="~/App_Themes/Tema/earth.ico" type="image/x-icon" />
+    <link id="Link2" runat="server" rel="icon" href="~/App_Themes/Tema/earth.ico" type="image/ico" />
+
+    <title>Social Graph Visualization</title>
+  
+      <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 561px;
+            height: 317px;
+            z-index: 1;
+            left: 514px;
+            top: 28px;
+            position: absolute;
+        }
+    </style>
+    </head>
+<body style="height: 762px">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+    </asp:ContentPlaceHolder>
+
+        <form id="form1" runat="server">
+
+
+        <div id="divContents" style="height: 699px; width: 1245px; margin-left: 428px; z-index: 1; left: -14px; top: 360px; position: absolute;">
+        <img src="App_Themes/Tema/divMenu.jpg" style="width: 1202px; margin-left: 10px; position: absolute; top: 28px; left: 13px; z-index: 2;" /></div>
+
+        <img alt="" class="auto-style1" src="App_Themes/Tema/Logo.png" />
+
+
+            <div id="divLogin" style="z-index: 1; left: 1461px; top: 20px; position: absolute; height: 40px; width: 196px; font-weight: 700;">
+                <asp:LoginView ID="LoginView1" runat="server">
+                    <AnonymousTemplate>
+                        <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutPageUrl="~/Default.aspx" />
+                        <asp:LoginName ID="LoginName1" runat="server" />
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        <a href="javascript:__doPostBack('ctl00$ctl02$LoginStatus2$ctl02','')">LogOut</a><asp:LoginName ID="LoginName2" runat="server" />
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+        </form>
+
+
+</body>
+</html>
