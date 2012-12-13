@@ -1,0 +1,5 @@
+c:\users\gisela\documents\visual studio 2012\Projects\LAPR5\Library\bin\Debug\Library.dll
+c:\users\gisela\documents\visual studio 2012\Projects\LAPR5\Library\bin\Debug\Library.pdb
+c:\users\gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Debug\LibraryWeb.csprojResolveAssemblyReference.cache
+c:\users\gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Debug\Library.dll
+c:\users\gisela\documents\visual studio 2012\Projects\LAPR5\Library\obj\Debug\Library.pdb
