@@ -10,15 +10,15 @@
 namespace WebApp.Account {
     
     
-    public partial class Login {
+    public partial class ChangePassword {
         
         /// <summary>
-        /// Login1 control.
+        /// ChangePassword1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Login Login1;
+        protected global::System.Web.UI.WebControls.ChangePassword ChangePassword1;
     }
 }

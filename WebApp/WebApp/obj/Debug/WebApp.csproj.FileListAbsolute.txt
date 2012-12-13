@@ -3,3 +3,9 @@ C:\Users\Nuno Neto\documents\visual studio 2012\Projects\WebApp\WebApp\bin\WebAp
 C:\Users\Nuno Neto\documents\visual studio 2012\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
 C:\Users\Nuno Neto\documents\visual studio 2012\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
 C:\Users\Nuno Neto\documents\visual studio 2012\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\bin\System.Web.Providers.dll
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Nuno Neto\Desktop\LAPR5_EASYGAMES\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
